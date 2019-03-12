@@ -8,3 +8,13 @@ C:\Users\jlamm\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF
 C:\Users\jlamm\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\jlamm\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\jlamm\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\_Projects\GitHub\GIT Visual Studio Projects\BasicWinFormsRetirementCalculator\BasicRetirementCalculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\_Projects\GitHub\GIT Visual Studio Projects\BasicWinFormsRetirementCalculator\BasicRetirementCalculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\_Projects\GitHub\GIT Visual Studio Projects\BasicWinFormsRetirementCalculator\BasicRetirementCalculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\_Projects\GitHub\GIT Visual Studio Projects\BasicWinFormsRetirementCalculator\BasicRetirementCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\_Projects\GitHub\GIT Visual Studio Projects\BasicWinFormsRetirementCalculator\BasicRetirementCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\_Projects\GitHub\GIT Visual Studio Projects\BasicWinFormsRetirementCalculator\BasicRetirementCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\_Projects\GitHub\GIT Visual Studio Projects\BasicWinFormsRetirementCalculator\BasicRetirementCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\_Projects\GitHub\GIT Visual Studio Projects\BasicWinFormsRetirementCalculator\BasicRetirementCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\_Projects\GitHub\GIT Visual Studio Projects\BasicWinFormsRetirementCalculator\BasicRetirementCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\_Projects\GitHub\GIT Visual Studio Projects\BasicWinFormsRetirementCalculator\BasicRetirementCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
